@@ -1,5 +1,6 @@
 DOMAIN,local.adguard.org
 DOMAIN,injections.adguard.org
+DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,dragonest.com
 DOMAIN-SUFFIX,xmxdev.com
 DOMAIN-SUFFIX,taptapdada.com
